@@ -8,6 +8,7 @@ namespace list_tutorial
         {
             new RunArray().Run();
             new RunList().Run();
+            new Issue().Run();
         }
     }
 }
